@@ -54,7 +54,8 @@ bun dev
 Buka browser dan akses:
 
 ```text
-http://localhost:3000
+http://localhost:3000 (path port untuk landing page - praktik part 1)
+http://localhost:3000/cms/books (path port untuk cms_books - praktik part 2)
 ```
 
 ## Common Issues
